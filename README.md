@@ -7,7 +7,7 @@ and generates a concise research brief instantly.<br><br>
 Instead of manually browsing articles, Nexus automatically collects authoritative sources 
 and synthesizes them into a clear summary.<br><br>
 
-It combines Tavily web search with Groq LLM reasoning to deliver fast, structured, 
+It combines Tavily web search with Groq LLM reasoning to deliver fast, structuring, 
 and reliable research insights.
 </p>
 
